@@ -113,11 +113,11 @@ Create `.env` in project root:
 ```env
 SECRET_KEY=your_secret_key
 
-DB_NAME=pulsedb
+DB_NAME=pulsenotify
 DB_USER=postgres
 DB_PASSWORD=postgres
 DB_HOST=localhost
-DB_PORT=5432
+DB_PORT=5433
 
 DJANGO_SETTINGS_MODULE=pulsenotify.settings.local
 ```
