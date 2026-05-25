@@ -157,15 +157,6 @@ python manage.py migrate
 ```
 
 ---
-
-## Create Superuser
-
-```bash
-python manage.py createsuperuser
-```
-
----
-
 # Running the Application
 
 The application requires THREE separate processes:
