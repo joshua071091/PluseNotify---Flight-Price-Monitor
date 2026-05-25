@@ -74,7 +74,7 @@ pulsenotify/
 ## 1. Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/joshua071091/PluseNotify---Flight-Price-Monitor
 cd pulsenotify
 ```
 
