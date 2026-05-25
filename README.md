@@ -248,7 +248,7 @@ python manage.py test
 Expected:
 
 ```text
-Ran 3 tests
+Ran 5 tests
 
 OK
 ```
